@@ -1,0 +1,22 @@
+/.metadata/
+
+# Java build output
+**/bin/
+**/target/
+**/*.class
+
+# Maven and Eclipse metadata
+**/.settings/
+**/.classpath
+**/.project
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
